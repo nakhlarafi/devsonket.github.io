@@ -107,6 +107,12 @@
             }, {
               "definition": "দৈবচয়নে(রান্ডম) নাম্বার জেনারেট করার জন্য",
               "code": "Math.random()"
+            }, {
+              "definition": "ত্রিকোণমিতিক ফাংশন দিয়ে অনুপাত নির্নয়",
+              "code": "Math.sin(x), Math.cos(x), Math.tan(x)"
+            }, {
+              "definition": "ত্রিকোণমিতিক ফাংশন দিয়ে কোণ নির্নয়",
+              "code": "Math.asin(x), Math.acos(x), Math.atan(x)"
             }
           ]
         },{
